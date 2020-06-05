@@ -2,8 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48cca8dd-d329-4883-a9de-d22dcaefdffc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../BruteForceSearch/2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BruteForceSearch/2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dfs:bfs/2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dfs:bfs/2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dfs:bfs/2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dfs:bfs/2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dfs:bfs/2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dfs:bfs/2/2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dfs:bfs/2/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dfs:bfs/3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dfs:bfs/3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dfs:bfs/3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dfs:bfs/3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dfs:bfs/3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dfs:bfs/3/3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dfs:bfs/3/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../heap/1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../heap/1/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../heap/2/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/4/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/4/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="738">
-              <caret line="98" selection-start-line="98" selection-end-line="98" />
+            <state relative-caret-position="663">
+              <caret line="99" selection-start-line="99" selection-end-line="99" />
             </state>
           </provider>
         </entry>
@@ -32,6 +50,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -40,9 +61,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="520" />
+    <option name="x" value="840" />
     <option name="y" value="23" />
-    <option name="width" value="1160" />
+    <option name="width" value="840" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -51,7 +72,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -68,6 +88,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -116,16 +137,20 @@
       <updated>1590383138374</updated>
       <workItem from="1590383141470" duration="16602000" />
       <workItem from="1590684259417" duration="4000" />
+      <workItem from="1590986936140" duration="1209000" />
+      <workItem from="1591097953645" duration="347000" />
+      <workItem from="1591158605384" duration="2489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16606000" />
+    <option name="totallyTimeSpent" value="20651000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="520" y="23" width="1160" height="1027" extended-state="0" />
+    <frame x="840" y="23" width="840" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15026833" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22180451" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -164,7 +189,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Solution.java</url>
-          <line>98</line>
+          <line>102</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
@@ -174,11 +199,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="98" selection-start-line="98" selection-end-line="98" />
-          <folding>
-            <element signature="e#463#480#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="663">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
         </state>
       </provider>
     </entry>
