@@ -33,7 +33,7 @@ public class Solution {
                 answer++; // 잘린 마지막 조각 더해주기
             }
         }
-        
+
         return answer;
     }
 }
